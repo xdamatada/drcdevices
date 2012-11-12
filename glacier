@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="CyanogenMod/android_device_htc_glacier" path="device/htc/glacier" revision="gingerbread" />
+    <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" revision="gingerbread" />
+    <project name="CyanogenMod/htc-kernel-msm7x30" path="device/htc/kernel-msm7x30" revision="android-msm-2.6.35" />
+</manifest>
